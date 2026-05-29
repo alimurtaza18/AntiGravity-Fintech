@@ -1,0 +1,6 @@
+Transaction_ID,User_ID,Amount,Timestamp,Category,Location,Deviation_StdDev
+TXN100050,USR1177,250000.0,2026-05-04 14:21:05,Entertainment,"Tokyo, Japan",9.56
+TXN100206,USR1054,750000.0,2026-05-21 23:32:31,Healthcare,"Secret Bunker, Unknown",28.74
+TXN100511,USR1134,500000.0,2026-05-26 20:58:37,Travel,"London, UK",19.15
+TXN101619,USR1135,1234567.89,2026-05-04 10:06:29,Entertainment,The Moon,47.34
+TXN103200,USR1065,999999.99,2026-05-05 22:31:35,Shopping,"New York, USA",38.34
